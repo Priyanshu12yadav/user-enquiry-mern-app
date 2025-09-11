@@ -10,7 +10,7 @@ A full-stack MERN application designed for seamless management of user enquiries
 
 Here's a look at the live application.
 
-![User Enquiry App Screenshot](./frontend/demo-screenshot.png)
+![User Enquiry App Screenshot](./client/demo-screenshot.png)
 
 ---
 
